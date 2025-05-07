@@ -1,2 +1,2 @@
 # Python
-Projects that I have done
+Here are some Python projects I have done so far. 
